@@ -1,8 +1,9 @@
-function Footer(){
+export default function Foote(){
     return(
         <>
-            <h1>Clinica Andes</h1>
+            <footer>
+                <p> Este es el Footer</p>
+            </footer>
         </>
     )
 }
-export default Footer
